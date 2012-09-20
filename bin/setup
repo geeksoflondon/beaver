@@ -1,0 +1,12 @@
+#! /bin/bash
+
+echo "Capifying the project!"
+  capify .
+  
+#Copy over standard capistrano deploy
+
+#Add Git Submodule puppet manifests
+
+#Init the submodule
+
+#Add standard defaults for puppet
